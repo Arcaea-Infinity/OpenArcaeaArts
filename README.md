@@ -1,13 +1,13 @@
 # OpenArcaeaArts
 
-Self made in-game GFX or SFX for any third party use without worry about Lowiro's ToS.
+Self made in-game GFX or SFX for anyone use without worry about Lowiro's ToS.
 
 You can use it in:
  - Your frontend (including and not limited to websites, applications, forms)
  - Your bots (e.g. score layout design)
- - Arcaea simulators, or chart view
+ - Arcaea simulators, or chart viewer
  - A copy of Arcaea
- - Any project
+ - Any project without commercial
 
 # Showcase
   |      |      |      |      |      |

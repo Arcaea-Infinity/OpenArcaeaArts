@@ -16,8 +16,8 @@ You can use it in:
 | <image src="img/air_input.png" height=50> | <image src="img/arc_body.png" height=50> | <image src="img/arc_body_hi.png" height=50> | <image src="img/arc_cap.png" height=50> | <image src="./img/audio_bluetooth.png" height=50> |
 | approach_arrow | grade_a | grade_b | grade_c | grade_d |
 | <image src= "img/approach_arrow.png" height=50> | <image src= "img/grade_a.png" height=50> | <image src= "img/grade_b.png" height=50> | <image src= "img/grade_c.png" height=50> | <image src= "img/grade_d.png" height=50> |
-| grade_aa | grade_ex | grade_ex+ |
-| <image src= "img/grade_aa.png" height=50> | <image src= "img/grade_ex.png" height=50> | <image src= "img/grade_ex+.png" height=50> |
+| grade_aa | grade_ex | grade_ex+ | dot_fr | dot_pm
+| <image src= "img/grade_aa.png" height=50> | <image src= "img/grade_ex.png" height=50> | <image src= "img/grade_ex+.png" height=50> | <image src= "img/dot_fr.png"> | <image src= "img/dot_pm.png"> |
 
 More GFXs are coming soon.
 

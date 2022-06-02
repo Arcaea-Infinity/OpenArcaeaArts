@@ -20,8 +20,8 @@ You can use it in:
 | <image src= "img/grade_aa.png" height=50> | <image src= "img/grade_ex.png" height=50> | <image src= "img/grade_ex+.png" height=50> | <image src= "img/dot_fr.png"> | <image src= "img/dot_pm.png"> |
 | clear_fail | clear_full | clear_normal | clear_pure | note |
 | <image src= "img/clear_fail.png"> | <image src= "img/clear_full.png"> | <image src= "img/clear_normal.png"> | <image src= "img/clear_pure.png"> | <image src= "img/note.png"> |
-| note_hold |
-| <image src= "img/note_hold.png" height=50> |
+| note_hold | random/base |
+| <image src= "img/note_hold.png" height=50> | <image src= "songs/random/base.jpg" height=50> |
 
 More GFXs are coming soon.
 
